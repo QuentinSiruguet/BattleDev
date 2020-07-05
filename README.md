@@ -1,2 +1,2 @@
-All the challenges are coming from :
+All the challenges are from :
   - https://www.isograd.com/FR/solutionconcours.php
