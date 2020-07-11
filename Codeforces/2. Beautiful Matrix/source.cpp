@@ -1,6 +1,7 @@
-int Exercice()
-{
+#include <iostream>
 
+int main()
+{
 	int tab[5][5];
 	for (int i = 0; i < 5; i++)
 		for (int y = 0; y < 5; y++)
