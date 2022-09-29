@@ -1,3 +1,3 @@
 All the challenges are from :
   - https://www.isograd.com/FR/solutionconcours.php
-  - https://www.a2oj.com/ladder --> https://codeforces.com/profile/Ghyfodia
+  - https://a2oj.herokuapp.com/?handle=QuentinSRGT&rating=1&div=0
